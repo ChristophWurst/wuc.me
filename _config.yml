@@ -1,7 +1,7 @@
 # Site
 title:              'Christoph Wurst'
-bio:                'Software Engineer, Photographer'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Free software enthusiast. Photographer. Developer at Nextcloud. Software Engineering Master graduate.'
+description:        'Free software enthusiast. Photographer. Developer at Nextcloud. Software Engineering Master graduate.'
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.jpg'
@@ -41,7 +41,7 @@ disqus_shortname:   taylantatli
 blog:               https://blog.wuc.me/
 twitter:            ChristophWurst
 #facebook:           false
-github-url:         https://github.com/ChristophWurst/
+github-url:         ChristophWurst
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
